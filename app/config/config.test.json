@@ -1,0 +1,6 @@
+{
+  "ENV"                             : "test",
+  "NODE_ENV"                        : "test",
+  "PORT"                            : 3000,
+  "MONGODB_URL"                     : "mongodb://localhost/back-test"
+}

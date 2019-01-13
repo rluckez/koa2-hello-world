@@ -1,0 +1,6 @@
+{
+  "ENV"                             : "staging",
+  "NODE_ENV"                        : "staging",
+  "PORT"                            : 3000,
+  "MONGODB_URL"                     : "mongodb://localhost/back-staging"
+}

@@ -1,0 +1,6 @@
+{
+  "ENV"                             : "prod",
+  "NODE_ENV"                        : "prod",
+  "PORT"                            : 3000,
+  "MONGODB_URL"                     : "mongodb://localhost/back-prod"
+}
